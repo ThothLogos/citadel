@@ -1,6 +1,6 @@
 import pygame, sys, random, os, eztext, glob
 from lib.Player import *
-from lib.InputHandler  import *
+from lib.InputHandler import *
 
 pygame.init()
 
